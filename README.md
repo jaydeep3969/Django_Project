@@ -2,9 +2,9 @@
 Beginner Level Django Rest API
 
 
-Task Information :
+**Task Information :
 
-Make a Django REST API
+>Make a Django REST API
 
 A. Models :
 
