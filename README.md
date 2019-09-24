@@ -1,6 +1,6 @@
 # Django_Project
-Beginner Level Django Rest API
-
+-Beginner Level Django Rest API 
+-Screenshots of outputs in /WB_Project/Outputs/
 
 **Task Information :**
 
